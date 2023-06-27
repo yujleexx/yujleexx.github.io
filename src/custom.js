@@ -1,0 +1,1 @@
+gsap.from('header h1', {y: 30, opacity: 0});
